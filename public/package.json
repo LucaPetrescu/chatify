@@ -9,6 +9,7 @@
     "axios": "^0.26.1",
     "buffer": "^6.0.3",
     "emoji-picker-react": "^3.5.1",
+    "env": "0.0.2",
     "joi": "^17.6.0",
     "joi-browser": "^13.4.0",
     "react": "^17.0.2",
