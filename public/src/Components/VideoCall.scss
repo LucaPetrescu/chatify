@@ -1,0 +1,17 @@
+.video-call-button {
+    display: flex;
+    position: relative;
+    right: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #e7ecef;
+    border: none;
+    cursor: pointer;
+    svg {
+      font-size: 1.3rem;
+      color: #274c77;
+    }
+  }
+  
