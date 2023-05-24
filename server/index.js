@@ -9,7 +9,7 @@ const messagesRoutes = require("./routes/messagesRoutes");
 const socket = require("socket.io");
 require("dotenv").config();
 
-const whitelist = ["http://localhost:3000"];
+const whitelist = ["http://localhost:3000", "https://chatifyapp.onrender.com"];
 
 // const corsOptions = {
 //   origin: function (origin, callback) {
