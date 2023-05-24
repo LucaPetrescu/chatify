@@ -24,7 +24,10 @@ const whitelist = ["http://localhost:3000", "https://chatifyapp.onrender.com"];
 
 app.use(
   cors({
-    origin: ["http://localhost:3000", "https://chatifyapp.onrender.com"],
+    origin: [
+      "http://localhost:3000",
+      "https://chatifyapp-frontend.onrender.com",
+    ],
   })
 );
 
